@@ -1,4 +1,4 @@
-![consuelo logo](https://raw.githubusercontent.com/kokayicobb/kokayicobb/main/consuelo-logo.svg)
+![consuelo-logo](consuelo-logo.svg)
 
 hi github
 
